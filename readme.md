@@ -1,7 +1,11 @@
 # Shrimkage
 
 A CLI Tool for Image Optimizations
-`shrink`+`image`
+`shrink`+`image`=`shrimkage`
+
+```
+Works Only On PNG and JPG (for now) 
+```
 
 ## Installing
 ```
@@ -25,9 +29,9 @@ shrimkage file --path=./example.png
 ```
 
 #### Options
-
+```
 --level: default = 50
-
+```
 ### folder
 
 optimizes all the images in the folder
@@ -37,7 +41,6 @@ shrimkage folder
 ```
 
 #### Options
-
+```
 --level: default = 50
-
-> NOTE: Works only on PNG/JPG
+```
