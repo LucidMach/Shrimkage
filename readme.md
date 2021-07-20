@@ -3,24 +3,22 @@
 A CLI Tool for Image Optimizations
 `shrink`+`image`=`shrimkage`
 
-```
-Works Only On PNG and JPG (for now) 
-```
+**_Works Only On PNG and JPG (for now)_** 
 
-## Installing
+## 💾 Installing
 ```
 npm install -g shrimkage
 ```
 
-## Commands
+## 🤖 Commands
 
-### help
+### 🙌 Help
 
 ```
 shrimkage --help
 ```
 
-### file
+### ⚡ File
 
 optimizes an given image
 
@@ -28,11 +26,11 @@ optimizes an given image
 shrimkage file --path=./example.png
 ```
 
-#### Options
+#### ⚙️ Options
 ```
 --level: default = 50
 ```
-### folder
+### 🔥 Folder
 
 optimizes all the images in the folder
 
@@ -40,7 +38,7 @@ optimizes all the images in the folder
 shrimkage folder
 ```
 
-#### Options
+#### ⚙️ Options
 ```
 --level: default = 50
 ```
