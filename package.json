@@ -1,0 +1,24 @@
+{
+  "name": "shrimkage",
+  "version": "1.0.0",
+  "description": "a CLI tool for optimising images",
+  "bin": {
+    "shrimkage": "./app.js"
+  },
+  "keywords": [
+    "cli",
+    "images",
+    "performance"
+  ],
+  "preferGlobal": true,
+  "author": "LucidMach",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "7.0.1",
+    "imagemin-mozjpeg": "9.0.0",
+    "imagemin-pngquant": "9.0.2",
+    "slash": "3.0.0",
+    "yargs": "^17.0.1"
+  },
+  "homepage": ""
+}
