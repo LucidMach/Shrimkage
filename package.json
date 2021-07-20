@@ -20,5 +20,7 @@
     "slash": "3.0.0",
     "yargs": "^17.0.1"
   },
-  "homepage": ""
+  "homepage": "https://github.com/LucidMach/Shrimkage",
+  "repository": {"type": "git","url": "https://github.com/LucidMach/Shrimkage.git"},
+  "engines": {"node": ">=8"}
 }
