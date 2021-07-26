@@ -5,6 +5,8 @@ A CLI Tool for Image Optimizations
 
 **_Works Only On PNG and JPG (for now)_** 
 
+A More Intuituve Wrapper over `minimage.js`
+
 ## 💾 Installing
 ```
 npm install -g shrimkage
