@@ -7,6 +7,10 @@ A CLI Tool for Image Optimizations
 
 A More Intuituve Wrapper over `minimage.js`
 
+> Wrote A Blog Post on It's Use Case: 
+> 
+> [The 20% Optimization That Improves 80% Web Performance](https://dev.to/lucidmach/how-to-make-websites-load-faster-524i) 
+
 ## 💾 Installing
 ```
 npm install -g shrimkage
